@@ -1,0 +1,106 @@
+    AA Associate of Arts
+    AAH Associate in Allied Health
+    AAN Associate of Arts in Nursing
+    AAS Associate in Applied Science
+    AAT Associate of Applied Technology
+    AB Associate in Business
+    AD Associate Degree
+    ADN Associate Degree in Nursing
+    AMSC Associate in Medical Science
+    APRN Advanced Practice Registered Nurse
+    AS Associate of Science
+    ASDN Associate of Science in Dental Hygiene
+    ASN Associate of Science in Nursing
+    AART American Registry for Radiologic Technologists
+    ART Accredited Record Technician
+    BA Bachelor of Arts
+    BHS Bachelor of Health Science
+    BMSC Bachelor of Medical Science
+    BS Bachelor of Science
+    BSE Bachelor of Science in Engineering
+    BSEH Bachelor of Science in Environmental Health
+    BSEd Bachelor of Science in Education
+    BSFC Bachelor of Science in Family and Consumer Sciences
+    BSN Bachelor of Science in Nursing
+    BSPH Bachelor of Science in Public Health
+    BSW Bachelor of Social Work
+    CCC Certificate of Clinical Competency (for Speech/Language Pathologists and Audiologists)
+    CCP Certified Cardiovascular Perfusionist
+    CCVT Certified Cardiovascular Technologist
+    CDA Certified Dental Assistant
+    CHES Certified Health Education Specialist
+    CLS Clinical Laboratory Scientist
+    CMA Certified Medical Assistant
+    CNA Certified Nursing Assistant
+    CNM Certified Nurse Midwife
+    CNMT Certified Nuclear Medicine Technologist
+    CNS Clinical Nurse Specialist
+    CO Certified Orthotist
+    COMA Certified Ophthalmic Medical Assistant
+    COTA Certified Occupational Therapy Assistant
+    CP Certified Prosthetist
+    CP/O Certified Prosthetist/Orthotist
+    CRNA Certified Registered Nurse Anesthetist
+    CRTT Certified Respiratory Therapy Technician
+    CT Cytotechnologist
+    DC Doctor of Chiropractic
+    DDS Doctor of Dental Surgery
+    DMD Doctor of Dental Medicine
+    DNSC Doctor of Nursing Science
+    DO Doctor of Osteopathy
+    DPM Doctor of Podiatric Medicine
+    DrPH Doctor of Public Health
+    DVM Doctor of Veterinary Medicine
+    EdS Education Specialist
+    EEGT Electroencephalographic Technologist
+    EMT Emergency Medical Technician
+    EMT-I Emergency Medical Technician - Intermediate
+    EMT-P Emergency Medical Technician - Paramedic
+    FNP Family Nurse Practitioner
+    HT Histologic Technician
+    HTL Histotechnologist
+    LPN Licensed Practical Nurse
+    LPT Licensed Physical Therapist
+    MD Doctor of Medicine
+    MEd Master of Education
+    MHA Master of Health Administration
+    MHA Master of Healthcare Administration
+    MHE Master of Health Education
+    MHS Master of Health Science
+    MLS Master of Library Science
+    MMSc Master of Medical Science
+    MN Master of Nursing
+    MPA Master of Pharmacy Administration
+    MPA Master of Public Administration
+    MPH Master of Public Health
+    MPT Master of Physical Therapy
+    MS Master of Science
+    MSE Master of Science in Engineering
+    MSEH Master of Science in Environmental Health
+    MSLS Master of Science in Library Science
+    MSN Master of Science in Nursing
+    MSW Master of Social Work
+    MLT Medical Laboratory Technician
+    MRT Medical Record Technician
+    MT Medical Technologist
+    MT (ASCP) Medical Technologist with Certification from the American Society of Clinical Pathologists
+    OD Doctor of Optometry
+    OTR Registered Occupational Therapist
+    PA-C Certified Physician's Assistant
+    PhD Doctor of Philosophy
+    PharmD Doctor of Pharmacy
+    PT Physical Therapist
+    PTA Physical Therapy Assistant
+    RPh Registered Pharmacist
+    RD Registered Dietitian
+    RDH Registered Dental Hygienist
+    RDMS Registered Diagnostic Medical Sonographer
+    RN Registered Nurse
+    RRA Registered Record Administrator
+    RRT Registered Respiratory Therapist
+    RT Radiologic Technologist
+    RT Recreation Therapist
+    RT(R) Radiologic Technologist with specialization in Radiology
+    RT(N) Radiologic Technologist with specialization in Nuclear Medicine
+    RT(T) Radiologic Technologist with specialization in Radiation
+    
